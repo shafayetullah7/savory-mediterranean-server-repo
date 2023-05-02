@@ -1,0 +1,289 @@
+[
+    {
+      "id": "1",
+      "recipeName": "Roasted Vegetables",
+      "ingredients": [
+        "red onion",
+        "red bell pepper",
+        "yellow bell pepper",
+        "zucchini",
+        "eggplant"
+      ],
+      "cookingMethod": "This roasted vegetable dish is simple to make and full of flavor. To start, preheat your oven to 425°F. Then, cut your vegetables into bite-sized pieces and toss them with olive oil, salt, and pepper. Spread the vegetables on a baking sheet in a single layer and roast them for 20-25 minutes, or until the vegetables are tender and lightly browned. Once they're done, remove them from the oven and serve immediately as a side dish or as a main course with a protein of your choice.",
+      "rating": 4.5,
+      "favorite": false
+    },
+    {
+      "id": "2",
+      "recipeName": "Greek Salad",
+      "ingredients": [
+        "romaine lettuce",
+        "cucumber",
+        "red onion",
+        "cherry tomatoes",
+        "kalamata olives"
+      ],
+      "cookingMethod": "This classic Greek salad is refreshing and delicious. Start by washing and drying your vegetables. Cut the lettuce and cucumber into bite-sized pieces, slice the red onion, and halve the cherry tomatoes. In a large bowl, combine all of the ingredients and toss them with a Greek dressing. Serve the salad immediately as a side dish or as a main course with a protein of your choice.",
+      "rating": 4.7,
+      "favorite": false
+    },
+    {
+      "id": "3",
+      "recipeName": "Lemon Garlic Shrimp",
+      "ingredients": [
+        "shrimp",
+        "garlic",
+        "olive oil",
+        "lemon",
+        "dried oregano"
+      ],
+      "cookingMethod": "This lemon garlic shrimp dish is bursting with Mediterranean flavors. Start by marinating the shrimp in a mixture of minced garlic, olive oil, lemon juice, and dried oregano for 30 minutes. Heat a skillet over medium-high heat, then add the shrimp and cook for 2-3 minutes per side, or until they turn pink and are cooked through. Serve the shrimp immediately with a side of vegetables or a salad.",
+      "rating": 4.8,
+      "favorite": false
+    },
+    {
+      "id": "4",
+      "recipeName": "Mediterranean Quinoa Salad",
+      "ingredients": [
+        "quinoa",
+        "cucumber",
+        "cherry tomatoes",
+        "red onion",
+        "kalamata olives"
+      ],
+      "cookingMethod": "This Mediterranean quinoa salad is healthy and flavorful. Start by rinsing the quinoa in cold water. In a saucepan, bring 2 cups of water to a boil, then add the quinoa and reduce the heat to low. Cover and simmer for 15 minutes, or until the water is absorbed and the quinoa is tender. Remove from heat and fluff with a fork. Add diced cucumber, halved cherry tomatoes, sliced red onion, and chopped kalamata olives to the quinoa and toss gently to combine. Serve the salad immediately or chill in the refrigerator for later.",
+      "rating": 4.6,
+      "favorite": false
+    },
+    {
+        "id": "5",
+        "recipeName": "Mediterranean Stuffed Peppers",
+        "ingredients": [
+          "red bell peppers",
+          "onion",
+          "garlic",
+          "tomatoes",
+          "quinoa",
+          "feta cheese",
+          "olive oil",
+          "fresh parsley",
+          "dried oregano",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "These Mediterranean stuffed peppers are a delicious and healthy vegetarian meal. Start by cooking quinoa according to package directions. While the quinoa is cooking, sauté chopped onions and garlic in olive oil until they are soft. Add diced tomatoes, dried oregano, salt, and black pepper to the pan and cook for a few more minutes. Once the quinoa is done, add it to the pan with the tomato mixture and stir to combine. Cut the tops off of the red bell peppers and remove the seeds and membranes. Stuff the peppers with the quinoa and tomato mixture and top with crumbled feta cheese. Bake in the oven at 375°F for 30-35 minutes, or until the peppers are tender and the cheese is melted. Garnish with fresh parsley before serving.",
+        "rating": 4.8,
+        "favorite": false
+    },
+    {
+        "id": "6",
+        "recipeName": "Spanakopita",
+        "ingredients": [
+          "spinach",
+          "feta cheese",
+          "phyllo dough",
+          "butter",
+          "onion",
+          "garlic",
+          "olive oil",
+          "fresh dill",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Spanakopita is a traditional Greek dish made with spinach and feta cheese. Start by sautéing chopped onions and garlic in olive oil until they are soft. Add chopped spinach to the pan and cook until wilted. Once the spinach is cooked, transfer it to a bowl and crumble feta cheese over the top. Season with chopped fresh dill, salt, and black pepper and stir to combine. Melt some butter in a separate pan. Take a sheet of phyllo dough and brush it with the melted butter. Layer another sheet of phyllo on top of the first and brush it with butter as well. Repeat this process with a total of 6-8 sheets of phyllo. Once you have a stack of phyllo dough, cut it into squares or triangles. Spoon the spinach and feta mixture onto each square or triangle and fold the dough over to create a triangle or square-shaped pastry. Bake in the oven at 375°F for 20-25 minutes, or until the pastry is golden brown and crispy.",
+        "rating": 4.9,
+        "favorite": false
+    },
+    {
+        "id": "7",
+        "recipeName": "Greek Lemon Chicken",
+        "ingredients": [
+          "chicken breasts",
+          "lemon",
+          "garlic",
+          "olive oil",
+          "oregano",
+          "thyme",
+          "rosemary",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "This Greek lemon chicken recipe is bursting with flavor and perfect for a weeknight dinner. Start by whisking together lemon juice, minced garlic, olive oil, dried oregano, thyme, and rosemary. Season chicken breasts with salt and black pepper and place them in a baking dish. Pour the lemon mixture over the chicken and turn to coat. Let the chicken marinate for at least 30 minutes or up to overnight. Preheat the oven to 375°F and bake the chicken for 25-30 minutes, or until cooked through. Serve with a side of roasted vegetables and a sprinkle of fresh herbs.",
+        "rating": 4.7,
+        "favorite": false
+    },
+    {
+        "id": "8",
+        "recipeName": "Turkish Eggplant Casserole",
+        "ingredients": [
+          "eggplant",
+          "ground beef",
+          "tomatoes",
+          "onion",
+          "garlic",
+          "olive oil",
+          "cumin",
+          "paprika",
+          "cayenne pepper",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "This Turkish eggplant casserole, known as Imam Bayildi, is a classic dish that's both delicious and healthy. Start by slicing eggplants lengthwise and salting them to remove any bitterness. After 30 minutes, rinse the eggplants and pat them dry. Heat olive oil in a pan and cook chopped onions and minced garlic until soft. Add ground beef and cook until browned. Once the beef is cooked, add diced tomatoes, cumin, paprika, cayenne pepper, salt, and black pepper to the pan and cook for a few more minutes. Arrange the eggplant slices in a baking dish and spoon the beef mixture over the top. Cover the dish with foil and bake in the oven at 375°F for 30-35 minutes, or until the eggplant is tender. Serve hot with a side of rice or bulgur pilaf.",
+        "rating": 4.9,
+        "favorite": false
+    },
+    {
+        "id": "9",
+        "recipeName": "Lebanese Chicken Shawarma",
+        "ingredients": [
+          "chicken thighs",
+          "pita bread",
+          "onion",
+          "tomato",
+          "cucumber",
+          "lettuce",
+          "garlic",
+          "lemon",
+          "olive oil",
+          "cumin",
+          "paprika",
+          "turmeric",
+          "coriander",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "This Lebanese chicken shawarma recipe is the perfect mix of juicy and flavorful. Start by marinating boneless, skinless chicken thighs in a mixture of minced garlic, lemon juice, olive oil, cumin, paprika, turmeric, coriander, salt, and black pepper. Let the chicken marinate for at least 1 hour, or up to overnight. Preheat the oven to 425°F and roast the chicken for 20-25 minutes, or until cooked through. While the chicken is cooking, prepare your toppings: chop onions, tomatoes, cucumbers, and lettuce. Warm up some pita bread in the oven or on the stovetop. Once the chicken is done, slice it into thin strips. To assemble the shawarma, place the toppings on the pita bread, add the chicken strips, and drizzle with tahini sauce.",
+        "rating": 4.8,
+        "favorite": false
+      },
+      {
+        "id": "10",
+        "recipeName": "Italian Caprese Salad",
+        "ingredients": [
+          "tomatoes",
+          "mozzarella cheese",
+          "fresh basil",
+          "balsamic vinegar",
+          "olive oil",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "This Italian Caprese salad is a classic and simple dish that's perfect for a summer day. Start by slicing ripe tomatoes and fresh mozzarella cheese. Arrange the tomato and mozzarella slices on a plate, alternating them. Add fresh basil leaves on top. In a small bowl, whisk together balsamic vinegar, olive oil, salt, and black pepper. Drizzle the dressing over the salad and serve immediately.",
+        "rating": 4.6,
+        "favorite": false
+    },
+    {    
+        "id": "11",    
+        "recipeName": "Turkish Borek",    
+        "ingredients": [      
+            "phyllo dough",      
+            "feta cheese",      
+            "spinach",      
+            "onion",      
+            "eggs",      
+            "milk",      
+            "olive oil",      
+            "salt",      
+            "black pepper"   
+         ],
+        "cookingMethod": "This Turkish borek recipe is a savory pastry filled with spinach and feta cheese. Start by sautéing chopped onions in olive oil until they are soft and translucent. Add the spinach and cook until wilted. In a separate bowl, whisk together eggs and milk, and season with salt and black pepper. Roll out phyllo dough on a flat surface and brush each layer with olive oil. Add the spinach and feta cheese mixture on top of the phyllo dough, leaving a border around the edges. Pour the egg mixture over the top of the filling. Roll up the phyllo dough to create a log shape and brush the top with more olive oil. Bake in a preheated oven at 350°F for 25-30 minutes, or until the phyllo dough is golden brown and crispy.",
+        "rating": 4.7,
+        "favorite": false
+    },
+    {
+        "id": "12",
+        "recipeName": "Greek Moussaka",
+        "ingredients": [      
+            "eggplant",      
+            "ground lamb",      
+            "onion",      
+            "garlic",      
+            "tomatoes",      
+            "cinnamon",      
+            "oregano",      
+            "nutmeg",      
+            "bechamel sauce",      
+            "breadcrumbs",      
+            "olive oil",      
+            "salt",      
+            "black pepper"    ],
+        "cookingMethod": "Greek moussaka is a delicious casserole that is perfect for a family dinner. Start by slicing the eggplant and salt it to draw out any bitterness. After an hour, rinse the eggplant and pat it dry. Heat olive oil in a pan and add ground lamb, chopped onions, and minced garlic. Cook until the lamb is browned and the onions are soft. Add chopped tomatoes, cinnamon, oregano, nutmeg, salt, and black pepper to the pan and let it simmer for 20 minutes. In a separate pan, make the béchamel sauce by melting butter, adding flour, and then gradually whisking in milk until smooth. Assemble the moussaka by placing a layer of eggplant slices in a baking dish, followed by a layer of the meat sauce, and then a layer of béchamel sauce. Repeat the layers until all ingredients are used up. Sprinkle breadcrumbs on top and bake in a preheated oven at 375°F for 45-50 minutes, or until the top is golden brown and the eggplant is tender.",
+        "rating": 4.9,
+        "favorite": false
+    },
+    {    
+        "id": "13",    
+        "recipeName": "Lebanese Mujadara",    
+        "ingredients": [      
+            "lentils",      
+            "white rice",      
+            "onion",      
+            "olive oil",      
+            "cumin",      
+            "coriander",      
+            "salt",      
+            "black pepper"   
+        ],
+        "cookingMethod": "Lebanese Mujadara is a flavorful and healthy dish that is perfect for a vegetarian meal. Start by cooking lentils in a pot of water until they are tender. Drain and set aside. In a separate pot, cook white rice according to package instructions. In a frying pan, sauté sliced onions in olive oil until they are caramelized and golden brown. Add cumin, coriander, salt, and black pepper to the onions and stir. Combine the cooked lentils and rice in a large bowl, then add the spiced onions on top. Mix everything together and serve hot. This dish can be enjoyed on its own or as a side dish with grilled chicken or lamb.",
+        "rating": 4.8,
+        "favorite": false
+    },
+    {
+        "id": "14",
+        "recipeName": "Moroccan Tagine",
+        "ingredients": [      "chicken",      "onion",      "garlic",      "ginger",      "carrots",      "potatoes",      "green olives",      "lemon",      "chicken broth",      "cumin",      "paprika",      "turmeric",      "salt",      "black pepper"    ],
+        "cookingMethod": "Moroccan Tagine is a delicious stew that is cooked in a traditional earthenware pot called a tagine. Start by browning chicken in a pan until it is golden brown. In a separate pan, sauté sliced onions, minced garlic, and grated ginger until the onions are soft. Add sliced carrots, diced potatoes, green olives, and the browned chicken to the pan. Mix cumin, paprika, turmeric, salt, and black pepper together in a small bowl and add to the pan. Pour chicken broth over the ingredients and bring to a boil. Once boiling, reduce the heat and let it simmer for 30-40 minutes until the vegetables are tender and the chicken is cooked through. Add lemon juice to the stew and stir. Serve the tagine with warm bread or couscous.",
+        "rating": 4.6,
+        "favorite": false
+    },
+    {
+        "id": "15",
+        "recipeName": "Greek Moussaka",
+        "ingredients": [
+            "eggplant",
+            "ground beef",
+            "onion",
+            "garlic",
+            "tomatoes",
+            "potatoes",
+            "breadcrumbs",
+            "feta cheese",
+            "olive oil",
+            "cinnamon",
+            "nutmeg",
+            "salt",
+            "black pepper"
+        ],
+        "cookingMethod": "Greek Moussaka is a hearty casserole dish that is perfect for a family meal. Start by slicing eggplants and potatoes into thin rounds, then sauté them in olive oil until they are tender and lightly browned. In a separate pan, cook ground beef until it is browned, then add sliced onions and minced garlic to the pan. Add chopped tomatoes, cinnamon, nutmeg, salt, and black pepper to the beef mixture and let it simmer for a few minutes. In a greased baking dish, layer the cooked eggplant and potato slices, then spread the beef mixture on top. Repeat the layering process until all the ingredients are used up. Sprinkle breadcrumbs and crumbled feta cheese on top of the casserole and bake in the oven for 30-40 minutes until it is golden brown and bubbly. Let it cool for a few minutes before serving.",
+        "rating": 4.9,
+        "favorite": false
+    },
+    {
+        "id": "16",
+        "recipeName": "Turkish Kofte",
+        "ingredients": [
+            "ground beef",
+            "onion",
+            "parsley",
+            "bread crumbs",
+            "egg",
+            "cumin",
+            "paprika",
+            "coriander",
+            "salt",
+            "black pepper"
+        ],
+        "cookingMethod": "Turkish Kofte is a popular dish made from seasoned ground beef that is shaped into small balls or patties. Start by combining ground beef, minced onion, chopped parsley, bread crumbs, beaten egg, cumin, paprika, coriander, salt, and black pepper in a large bowl. Mix everything together until it is well combined. Wet your hands with water and shape the beef mixture into small balls or patties. In a frying pan, heat olive oil over medium heat, then add the kofte to the pan. Cook for a few minutes on each side until they are browned and cooked through. Serve the kofte with a side salad or hummus and warm bread.",
+        "rating": 4.5,
+        "favorite": false
+    },
+    {    
+        "id": "17",    
+        "recipeName": "Tunisian Brik",    
+        "ingredients": [      "filo pastry",      "canned tuna",      "eggs",      "parsley",      "onion",      "harissa",      "olive oil",      "salt",      "black pepper"    ],
+        "cookingMethod": "Tunisian Brik is a savory pastry that is typically filled with tuna, egg, and harissa. Start by making the filling mixture by mixing together canned tuna, beaten eggs, chopped parsley, minced onion, harissa, salt, and black pepper in a large bowl. Cut the filo pastry into large squares or circles, then place a spoonful of the filling mixture onto the center of each pastry piece. Fold the pastry over to create a triangle shape, then brush the edges with water to seal it shut. Heat olive oil in a frying pan over medium heat, then add the brik to the pan. Cook for a few minutes on each side until the pastry is golden brown and crispy. Serve the brik hot with a side of salad.",
+        "rating": 4.7,
+        "favorite": false
+    }
+]
+  
