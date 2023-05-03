@@ -6,6 +6,7 @@
         "years_of_experience": 10,    
         "num_recipes": 4,    
         "likes": 1000,    
+        "description":"With over a decade of experience, Chef Youssef Abadi is a master of Mediterranean cuisine. Originally from the seaside town of Essaouira in Morocco, he brings a passion for fresh seafood and vibrant spices to every dish he creates. Whether you're craving a classic tagine or a modern twist on a traditional mezze platter, Chef Abadi has the skills and expertise to make your taste buds sing.",
         "recipe_ids": ["1", "2", "3", "4"]
     },
     {
@@ -15,6 +16,7 @@
         "years_of_experience": 8,
         "num_recipes": 5,
         "likes": 800,
+        "description":"Born and raised in Beirut, Lebanon, Chef Leila Hamdi has a deep appreciation for the rich culinary traditions of the Eastern Mediterranean. Her mastery of fresh herbs and aromatic spices shines through in every dish she prepares, from savory falafel to tangy fattoush salad. With five years of professional experience and a boundless creativity, Chef Hamdi is sure to impress even the most discerning palate.",
         "recipe_ids": ["5", "6", "7", "8", "9"]
     },
     {
@@ -24,6 +26,7 @@
         "years_of_experience": 12,
         "num_recipes": 3,
         "likes": 1200,
+        "description":"As a child growing up in the bustling city of Istanbul, Turkey, Chef Hassan Ali developed a love of the bold and complex flavors of Mediterranean cuisine. Today, with over a decade of experience in professional kitchens, he combines that love with a deep understanding of the art and science of cooking to create dishes that are both delicious and beautiful. From savory lamb kebabs to delicate baklava, Chef Ali's food is a celebration of the diverse and vibrant cultures of the Mediterranean.",
         "recipe_ids": ["10", "11", "12"]
     },
     {
@@ -33,6 +36,7 @@
         "years_of_experience": 6,
         "num_recipes": 4,
         "likes": 600,
+        "description":"With a background in traditional Greek and Italian cooking, Chef Nadia Khalil has spent her career exploring the rich and varied flavors of Mediterranean cuisine. Her passion for fresh, high-quality ingredients is evident in every dish she prepares, from creamy tzatziki to hearty lasagna. Whether you're looking for a taste of the sunny Mediterranean coast or a hearty, satisfying meal, Chef Khalil has the expertise to make it happen.",
         "recipe_ids": ["13", "14", "15", "16"]
     },
     {
@@ -42,7 +46,8 @@
         "years_of_experience": 9,
         "num_recipes": 5,
         "likes": 900,
-        "recipe_ids": ["17", "18", "19", "20", "21"]
+        "description":"Originally from the ancient city of Fez in Morocco, Chef Omar Farid brings a wealth of knowledge and experience to his craft. With a focus on fresh, seasonal ingredients and a deep understanding of the art of spice blending, he creates dishes that are both deeply satisfying and beautifully balanced. From aromatic lamb tagine to crispy falafel, Chef Farid's food is a celebration of the vibrant and diverse flavors of the Mediterranean.",
+        "recipe_ids": ["1", "16", "9"]
     },
     {
         "id": "6",
@@ -51,6 +56,7 @@
         "years_of_experience": 5,
         "num_recipes": 3,
         "likes": 500,
-        "recipe_ids": ["22", "23", "24"]
+        "description":"As a native of the historic city of Alexandria, Egypt, Chef Sofia Ayman has a deep appreciation for the rich culinary traditions of the Eastern Mediterranean. Her cooking is a celebration of the bold and complex flavors of the region, with a focus on fresh, high-quality ingredients and innovative techniques. Whether you're looking for a classic Greek moussaka or a modern twist on a Lebanese fattoush salad, Chef Ayman has the skills and expertise to make it happen.",
+        "recipe_ids": ["2", "8", "12"]
     }
 ]

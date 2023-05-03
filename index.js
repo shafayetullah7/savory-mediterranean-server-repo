@@ -4,6 +4,7 @@ const port = 5000;
 var cors = require('cors');
 
 const chefs = require('./data/chefs.json');
+const recipes = require('./data/recipes.json');
 
 app.use(cors());
 
@@ -15,8 +16,17 @@ app.get('/chefs',(req,res)=>{
 });
 app.get('/chefs/:id',(req,res)=>{
   const id = req.params.id;
-  const chef = chefs.find(c => c.id===id);
+  let chef = chefs.find(c => c.id===id);
   res.send(chef);
+});
+app.get('/recipes',(req,res)=>{
+  res.send(recipes);
+});
+app.get('/recipes/:ids',(req,res)=>{
+  let ids = (req.params.ids.split('-'));
+  const result = recipes.filter(recipe => ids.includes(recipe.id))
+  
+  res.send(result);
 });
 
 

@@ -2,6 +2,7 @@
     {
       "id": "1",
       "recipeName": "Roasted Vegetables",
+      "img":"https://i.postimg.cc/BbQLgkXt/Roasted-Vegetables-min.jpg",
       "ingredients": [
         "red onion",
         "red bell pepper",
@@ -16,6 +17,7 @@
     {
       "id": "2",
       "recipeName": "Greek Salad",
+      "img":"https://i.postimg.cc/gk28qXZ4/Greek-Salad-min.jpg",
       "ingredients": [
         "romaine lettuce",
         "cucumber",
@@ -30,6 +32,7 @@
     {
       "id": "3",
       "recipeName": "Lemon Garlic Shrimp",
+      "img":"https://i.postimg.cc/505Lp8gK/Lemon-Garlic-Shrimp-min.jpg",
       "ingredients": [
         "shrimp",
         "garlic",
@@ -44,6 +47,7 @@
     {
       "id": "4",
       "recipeName": "Mediterranean Quinoa Salad",
+      "img":"https://i.postimg.cc/8kHL6Bjj/Mediterranean-Quinoa-Salad-min.jpg",
       "ingredients": [
         "quinoa",
         "cucumber",
@@ -58,6 +62,7 @@
     {
         "id": "5",
         "recipeName": "Mediterranean Stuffed Peppers",
+        "img":"https://i.postimg.cc/k5KbXW0M/Mediterranean-Stuffed-Peppers-min.jpg",
         "ingredients": [
           "red bell peppers",
           "onion",
@@ -78,6 +83,7 @@
     {
         "id": "6",
         "recipeName": "Spanakopita",
+        "img":"https://i.postimg.cc/Xvfr045p/Spanakopita-min.jpg",
         "ingredients": [
           "spinach",
           "feta cheese",
@@ -96,7 +102,8 @@
     },
     {
         "id": "7",
-        "recipeName": "Greek Lemon Chicken",
+        "recipeName": "Lemon Chicken",
+        "img":"https://i.postimg.cc/prxYtsyt/Greek-Lemon-Chicken-min.jpg",
         "ingredients": [
           "chicken breasts",
           "lemon",
@@ -115,6 +122,7 @@
     {
         "id": "8",
         "recipeName": "Turkish Eggplant Casserole",
+        "img":"https://i.postimg.cc/9Qq4JGFP/Turkish-Eggplant-Casserole-min.jpg",
         "ingredients": [
           "eggplant",
           "ground beef",
@@ -135,6 +143,7 @@
     {
         "id": "9",
         "recipeName": "Lebanese Chicken Shawarma",
+        "img":"https://i.postimg.cc/4N2t8fvG/Lebanese-Chicken-Shawarma-min.jpg",
         "ingredients": [
           "chicken thighs",
           "pita bread",
@@ -158,7 +167,8 @@
       },
       {
         "id": "10",
-        "recipeName": "Italian Caprese Salad",
+        "recipeName": "Caprese Salad",
+        "img":"https://i.postimg.cc/SRy8PjtS/Italian-Caprese-Salad-min.jpg",
         "ingredients": [
           "tomatoes",
           "mozzarella cheese",
@@ -174,7 +184,8 @@
     },
     {    
         "id": "11",    
-        "recipeName": "Turkish Borek",    
+        "recipeName": "Turkish Borek", 
+        "img":"https://i.postimg.cc/ZqtWgCCG/Turkish-Borek-min.jpg",   
         "ingredients": [      
             "phyllo dough",      
             "feta cheese",      
@@ -192,7 +203,8 @@
     },
     {
         "id": "12",
-        "recipeName": "Greek Moussaka",
+        "recipeName": "Moussaka",
+        "img":"https://i.postimg.cc/XqQF63Tw/moussaka-min.jpg",
         "ingredients": [      
             "eggplant",      
             "ground lamb",      
@@ -213,7 +225,8 @@
     },
     {    
         "id": "13",    
-        "recipeName": "Lebanese Mujadara",    
+        "recipeName": "Lebanese Mujadara",  
+        "img" :"https://i.postimg.cc/VsBWFPHs/Lebanese-Mujadara-min.jpg", 
         "ingredients": [      
             "lentils",      
             "white rice",      
@@ -231,6 +244,7 @@
     {
         "id": "14",
         "recipeName": "Moroccan Tagine",
+        "img":"https://i.postimg.cc/52HzThpC/Moroccan-Tagine-min.jpg",
         "ingredients": [      "chicken",      "onion",      "garlic",      "ginger",      "carrots",      "potatoes",      "green olives",      "lemon",      "chicken broth",      "cumin",      "paprika",      "turmeric",      "salt",      "black pepper"    ],
         "cookingMethod": "Moroccan Tagine is a delicious stew that is cooked in a traditional earthenware pot called a tagine. Start by browning chicken in a pan until it is golden brown. In a separate pan, sauté sliced onions, minced garlic, and grated ginger until the onions are soft. Add sliced carrots, diced potatoes, green olives, and the browned chicken to the pan. Mix cumin, paprika, turmeric, salt, and black pepper together in a small bowl and add to the pan. Pour chicken broth over the ingredients and bring to a boil. Once boiling, reduce the heat and let it simmer for 30-40 minutes until the vegetables are tender and the chicken is cooked through. Add lemon juice to the stew and stir. Serve the tagine with warm bread or couscous.",
         "rating": 4.6,
@@ -238,29 +252,8 @@
     },
     {
         "id": "15",
-        "recipeName": "Greek Moussaka",
-        "ingredients": [
-            "eggplant",
-            "ground beef",
-            "onion",
-            "garlic",
-            "tomatoes",
-            "potatoes",
-            "breadcrumbs",
-            "feta cheese",
-            "olive oil",
-            "cinnamon",
-            "nutmeg",
-            "salt",
-            "black pepper"
-        ],
-        "cookingMethod": "Greek Moussaka is a hearty casserole dish that is perfect for a family meal. Start by slicing eggplants and potatoes into thin rounds, then sauté them in olive oil until they are tender and lightly browned. In a separate pan, cook ground beef until it is browned, then add sliced onions and minced garlic to the pan. Add chopped tomatoes, cinnamon, nutmeg, salt, and black pepper to the beef mixture and let it simmer for a few minutes. In a greased baking dish, layer the cooked eggplant and potato slices, then spread the beef mixture on top. Repeat the layering process until all the ingredients are used up. Sprinkle breadcrumbs and crumbled feta cheese on top of the casserole and bake in the oven for 30-40 minutes until it is golden brown and bubbly. Let it cool for a few minutes before serving.",
-        "rating": 4.9,
-        "favorite": false
-    },
-    {
-        "id": "16",
         "recipeName": "Turkish Kofte",
+        "img":"https://i.postimg.cc/0jW6Hnwn/Turkish-Kofte-min.jpg",
         "ingredients": [
             "ground beef",
             "onion",
@@ -278,8 +271,9 @@
         "favorite": false
     },
     {    
-        "id": "17",    
-        "recipeName": "Tunisian Brik",    
+        "id": "16",    
+        "recipeName": "Tunisian Brik",
+        "img":"https://i.postimg.cc/Ss4zXJ46/Tunisian-Brik-min.jpg", 
         "ingredients": [      "filo pastry",      "canned tuna",      "eggs",      "parsley",      "onion",      "harissa",      "olive oil",      "salt",      "black pepper"    ],
         "cookingMethod": "Tunisian Brik is a savory pastry that is typically filled with tuna, egg, and harissa. Start by making the filling mixture by mixing together canned tuna, beaten eggs, chopped parsley, minced onion, harissa, salt, and black pepper in a large bowl. Cut the filo pastry into large squares or circles, then place a spoonful of the filling mixture onto the center of each pastry piece. Fold the pastry over to create a triangle shape, then brush the edges with water to seal it shut. Heat olive oil in a frying pan over medium heat, then add the brik to the pan. Cook for a few minutes on each side until the pastry is golden brown and crispy. Serve the brik hot with a side of salad.",
         "rating": 4.7,
