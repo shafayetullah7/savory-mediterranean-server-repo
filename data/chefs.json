@@ -1,0 +1,56 @@
+[  
+    {    
+        "id": "1",    
+        "chef_picture": "https://i.postimg.cc/wTCzP08B/man1-min.jpg",    
+        "chef_name": "Youssef Abadi",    
+        "years_of_experience": 10,    
+        "num_recipes": 4,    
+        "likes": 1000,    
+        "recipe_ids": ["1", "2", "3", "4"]
+    },
+    {
+        "id": "2",
+        "chef_picture": "https://i.postimg.cc/T33stbhP/woman1-min.jpg",
+        "chef_name": "Leila Hamdi",
+        "years_of_experience": 8,
+        "num_recipes": 5,
+        "likes": 800,
+        "recipe_ids": ["5", "6", "7", "8", "9"]
+    },
+    {
+        "id": "3",
+        "chef_picture": "https://i.postimg.cc/XNh6GQvg/man2-min.jpg",
+        "chef_name": "Hassan Ali",
+        "years_of_experience": 12,
+        "num_recipes": 3,
+        "likes": 1200,
+        "recipe_ids": ["10", "11", "12"]
+    },
+    {
+        "id": "4",
+        "chef_picture": "https://i.postimg.cc/d0T4fjFJ/woman2-min.jpg",
+        "chef_name": "Nadia Khalil",
+        "years_of_experience": 6,
+        "num_recipes": 4,
+        "likes": 600,
+        "recipe_ids": ["13", "14", "15", "16"]
+    },
+    {
+        "id": "5",
+        "chef_picture": "https://i.postimg.cc/d0Xgk0sV/man3-min.jpg",
+        "chef_name": "Omar Farid",
+        "years_of_experience": 9,
+        "num_recipes": 5,
+        "likes": 900,
+        "recipe_ids": ["17", "18", "19", "20", "21"]
+    },
+    {
+        "id": "6",
+        "chef_picture": "https://i.postimg.cc/7hB3h54B/woman3-min.jpg",
+        "chef_name": "Sofia Ayman",
+        "years_of_experience": 5,
+        "num_recipes": 3,
+        "likes": 500,
+        "recipe_ids": ["22", "23", "24"]
+    }
+]
