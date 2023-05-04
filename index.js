@@ -5,6 +5,8 @@ var cors = require('cors');
 
 const chefs = require('./data/chefs.json');
 const recipes = require('./data/recipes.json');
+const reviews = require('./data/reviews.json');
+
 
 app.use(cors());
 
@@ -28,7 +30,9 @@ app.get('/recipes/:ids',(req,res)=>{
   
   res.send(result);
 });
-
+app.get('/reviews',(req,res)=>{
+  res.send(reviews);
+})
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)

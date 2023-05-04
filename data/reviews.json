@@ -1,0 +1,72 @@
+[
+    {
+      "id": "01",
+      "name": "Julia Morris",
+      "image": "https://randomuser.me/api/portraits/women/61.jpg",
+      "rating": 4,
+      "review": "I recently used the personalized meal planning service and I couldn't be happier with the results. The chef was very professional and friendly, and the food was absolutely delicious. I highly recommend this service to anyone looking for a great meal planning experience."
+    },
+    {
+      "id": "02",
+      "name": "Jose Hernandez",
+      "image": "https://randomuser.me/api/portraits/men/46.jpg",
+      "rating": 5,
+      "review": "I had a private cooking class with one of the chefs and it was an amazing experience. Not only did I learn how to make some fantastic Mediterranean dishes, but the chef was also very knowledgeable about nutrition and healthy eating. I highly recommend this service to anyone looking to improve their cooking skills."
+    },
+    {
+      "id": "03",
+      "name": "Lena Nguyen",
+      "image": "https://randomuser.me/api/portraits/women/48.jpg",
+      "rating": 5,
+      "review": "I recently used the consulting services and was blown away by the level of expertise and professionalism. The chef I worked with was incredibly knowledgeable about Mediterranean cuisine and was able to provide me with some fantastic insights and recommendations. I would definitely use this service again!"
+    },
+    {
+      "id": "04",
+      "name": "David Kim",
+      "image": "https://randomuser.me/api/portraits/men/37.jpg",
+      "rating": 4,
+      "review": "I had a private chef come to my home for a dinner party and it was an amazing experience. The food was absolutely delicious and the chef was incredibly professional and friendly. It was definitely a night to remember and I would highly recommend this service to anyone looking to host a special event."
+    },
+    {
+      "id": "05",
+      "name": "Fatima Ahmed",
+      "image": "https://randomuser.me/api/portraits/women/10.jpg",
+      "rating": 5,
+      "review": "I recently used the cooking classes service and it was an amazing experience. The chef was very knowledgeable about Mediterranean cuisine and was able to teach me some fantastic recipes. The class was fun and informative, and the food was absolutely delicious. I would definitely recommend this service to anyone looking to improve their cooking skills."
+    },
+    {
+      "id": "06",
+      "name": "Amit Patel",
+      "image": "https://randomuser.me/api/portraits/men/23.jpg",
+      "rating": 4,
+      "review": "I recently used the personalized meal planning service and was very happy with the results. The chef was very friendly and professional, and the food was absolutely delicious. I would definitely use this service again in the future."
+    },
+    {
+      "id": "07",
+      "name": "Sara Ali",
+      "image": "https://randomuser.me/api/portraits/women/31.jpg",
+      "rating": 5,
+      "review": "I recently used the consulting services and was blown away by the level of expertise and professionalism. The chef I worked with was incredibly knowledgeable about Mediterranean cuisine and was able to provide me with some fantastic insights and recommendations. I would definitely use this service again!"
+    },
+    {
+        "id": "08",
+        "name": "Naima Patel",
+        "image": "https://randomuser.me/api/portraits/women/77.jpg",
+        "rating": 4,
+        "review": "I am so glad I found this website! The Personalized Meal Planning service has been a game-changer for me. And the cooking classes are so much fun. I've learned to make some delicious Mediterranean dishes that my family loves."
+    },
+    {
+        "id": "09",
+        "name": "Carlos Diaz",
+        "image": "https://randomuser.me/api/portraits/men/2.jpg",
+        "rating": 5,
+        "review": "I've never tasted Mediterranean food before and I have to say, I'm hooked! The food is amazing and the Private Chef Service is so convenient. I hired a chef for a dinner party and my guests were blown away by the food. Highly recommend this site!"
+    },
+    {
+        "id": "10",
+        "name": "Elena Petrov",
+        "image": "https://randomuser.me/api/portraits/women/94.jpg",
+        "rating": 5,
+        "review": "I used the Consulting Services for my restaurant and I have to say, it was worth every penny. The consultant was knowledgeable and helped me revamp my menu with some Mediterranean dishes that have been a hit with my customers. Thank you for the excellent service!"
+    }
+] 
